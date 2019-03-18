@@ -8,3 +8,4 @@ Seuls les commits associés à une adresse email de l'EEMI seront acceptés.
 - [Classe 2](https://eemi-aj.github.io/trombi/classe2.html)
 - [Classe 3](https://eemi-aj.github.io/trombi/classe3.html)
 - [Classe 4](https://eemi-aj.github.io/trombi/classe4.html)
+- [Classe Fast-Track](https://eemi-aj.github.io/trombi/classe-fast-track.html)
